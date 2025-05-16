@@ -14,12 +14,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_084-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_084-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_084-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_084-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -39,12 +39,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_083-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_083-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_083-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_083-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -64,12 +64,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_080-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_080-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_080-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_080-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -89,12 +89,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_008-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_008-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_008-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_008-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -114,12 +114,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_011-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_011-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_011-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_011-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -139,12 +139,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_003-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_003-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_003-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_003-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -173,12 +173,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_007-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_007-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_007-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_007-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -207,12 +207,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_006-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_006-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_006-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_006-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -250,12 +250,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_005-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_005-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_005-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_005-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -296,12 +296,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_004-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_004-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_004-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_004-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -321,12 +321,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_063-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_063-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_063-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_063-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -346,12 +346,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_001-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_001-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_001-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_001-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -371,12 +371,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_002-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_002-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_002-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_002-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -396,12 +396,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_062-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_062-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_062-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_062-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -421,12 +421,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_064-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_064-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_064-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_064-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -446,12 +446,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_061-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_061-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_061-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_061-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -471,12 +471,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_060-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_060-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_060-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_060-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -496,12 +496,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_067-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_067-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_067-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_067-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -522,12 +522,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_066-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_066-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_066-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_066-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -548,12 +548,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_065-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_065-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_065-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_065-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -574,12 +574,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_070-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_070-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_070-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_070-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -600,12 +600,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_069-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_069-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_069-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_069-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -626,12 +626,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_068-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_068-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_068-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_068-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -652,12 +652,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_053-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_053-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_053-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_053-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -678,12 +678,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_052-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_052-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_052-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_052-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -704,12 +704,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_071-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_071-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_071-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_071-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -730,12 +730,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_056-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_056-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_056-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_056-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -756,12 +756,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_055-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_055-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_055-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_055-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -782,12 +782,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_054-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_054-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_054-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_054-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -808,12 +808,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_059-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_059-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_059-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_059-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -833,12 +833,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_058-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_058-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_058-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_058-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -859,12 +859,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_057-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_057-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_057-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_057-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -891,12 +891,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_045-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_045-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_045-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_045-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -913,12 +913,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_078-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_078-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_078-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_078-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -938,12 +938,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_046-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_046-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_046-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_046-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -963,12 +963,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_077-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_077-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_077-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_077-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -988,12 +988,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_076-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_076-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_076-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_076-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1013,12 +1013,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_075-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_075-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_075-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_075-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1038,12 +1038,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_047-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_047-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_047-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_047-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1063,12 +1063,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_048-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_048-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_048-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_048-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1088,12 +1088,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_051-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_051-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_051-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_051-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1113,12 +1113,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_050-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_050-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_050-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_050-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1139,12 +1139,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_049-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_049-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_049-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_049-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1165,12 +1165,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_014-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_014-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_014-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_014-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1191,12 +1191,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_013-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_013-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_013-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_013-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1217,12 +1217,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_012-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_012-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_012-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_012-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1243,12 +1243,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_017-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_017-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_017-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_017-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1269,12 +1269,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_016-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_016-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_016-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_016-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1295,12 +1295,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_015-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_015-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_015-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_015-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1321,12 +1321,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_020-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_020-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_020-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_020-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1347,12 +1347,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_019-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_019-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_019-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_019-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1373,12 +1373,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_018-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_018-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_018-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_018-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1399,12 +1399,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_074-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_074-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_074-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_074-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1425,12 +1425,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_073-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_073-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_073-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_073-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1451,12 +1451,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_072-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_072-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_072-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_072-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1477,12 +1477,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_079-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_079-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_079-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_079-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1505,12 +1505,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_044-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_044-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_044-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_044-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1527,12 +1527,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_085-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_085-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_085-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_085-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1553,12 +1553,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_025-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_025-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_025-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_025-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1579,12 +1579,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_026-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_026-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_026-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_026-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1605,12 +1605,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_027-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_027-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_027-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_027-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1631,12 +1631,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_028-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_028-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_028-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_028-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1657,12 +1657,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_043-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_043-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_043-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_043-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1704,12 +1704,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_029-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_029-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_029-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_029-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1729,12 +1729,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_042-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_042-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_042-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_042-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1754,12 +1754,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_041-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_041-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_041-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_041-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1779,12 +1779,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_030-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_030-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_030-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_030-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1804,12 +1804,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_040-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_040-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_040-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_040-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1829,12 +1829,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_032-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_032-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_032-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_032-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1855,12 +1855,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_034-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_034-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_034-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_034-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1904,12 +1904,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_039-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_039-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_039-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_039-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1951,12 +1951,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_086-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_086-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_086-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_086-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -1976,12 +1976,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_024-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_024-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_024-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_024-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2001,12 +2001,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_023-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_023-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_023-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_023-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2026,12 +2026,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_087-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_087-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_087-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_087-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2051,12 +2051,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_022-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_022-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_022-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_022-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2076,12 +2076,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_089-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_089-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_089-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_089-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2102,12 +2102,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_091-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_091-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_091-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_091-lib.dae"/>
       </geometry>
     </collision>
   </link>
@@ -2151,12 +2151,12 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_021-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_021-lib.dae"/>
       </geometry>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://description/meshes/rx78_object_021-lib.dae"/>
+        <mesh filename="package://gundam_rx78_description/meshes/rx78_object_021-lib.dae"/>
       </geometry>
     </collision>
   </link>
