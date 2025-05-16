@@ -1,5 +1,5 @@
 Panels:
-  - Class: rviz_default_plugins/panel_displays
+  - Class: rviz_default_plugins/DisplaysPanel
     Help Height: 78
     Name: Displays
     Property Tree Widget:
@@ -10,21 +10,21 @@ Panels:
         - /TF1
       Splitter Ratio: 0.5
     Tree Height: 557
-  - Class: rviz_default_plugins/panel_selection
+  - Class: rviz_default_plugins/SelectionPanel
     Name: Selection
-  - Class: rviz_default_plugins/panel_tool_properties
+  - Class: rviz_default_plugins/ToolPropertiesPanel
     Expanded:
       - /2D Pose Estimate1
       - /2D Nav Goal1
       - /Publish Point1
     Name: Tool Properties
     Splitter Ratio: 0.588679
-  - Class: rviz_default_plugins/panel_views
+  - Class: rviz_default_plugins/ViewsPanel
     Expanded:
       - /Current View1
     Name: Views
     Splitter Ratio: 0.5
-  - Class: rviz_default_plugins/panel_time
+  - Class: rviz_default_plugins/TimePanel
     Experimental: false
     Name: Time
     SyncMode: 0
