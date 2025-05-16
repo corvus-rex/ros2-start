@@ -7,7 +7,7 @@ import os
 def generate_launch_description():
     # Path to the URDF file
     urdf_path = os.path.join(
-        get_package_share_directory('gundam_rx78_description'),
+        get_package_share_directory('rx78_description'),
         'urdf',
         'GGC_TestModel_rx78_20170112.urdf'
     )
