@@ -1,8 +1,10 @@
 <launch>
-  <arg name="gui" default="true" />
-  <arg name="rvizconfig" default="$(find gundam_rx78_description)/config/urdf.rviz" />
+  <var name="gui" default="true" />
+  <var name="rvizconfig" default="$(find description)/config/urdf.rviz" />
 
-  <include file="$(find gundam_rx78_description)/launch/upload.launch" />
+  <group>
+    <include file="$(find description)/launch/upload.launch" />
+  </group>
 
   <node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" if="$(arg gui)" />
   <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" unless="$(arg gui)" />
